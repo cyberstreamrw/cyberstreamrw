@@ -21,10 +21,10 @@ Cyberstream is a cutting-edge software company dedicated to delivering innovativ
 ## 🚀 Featured Projects
 
 ### **iCare Project**
-![iCare Logo](https://via.placeholder.com/150?text=iCare+Logo)
+![iCare Logo](https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_ICARE.jpg)
 - **Description:** A transformative health tech initiative designed to enhance healthcare services using advanced digital solutions.
 - **Development Time:** 7+ months
-- **Valuation:** $2 million
+- **Valuation:** $20 million
 
 ---
 
@@ -41,7 +41,7 @@ Cyberstream is a cutting-edge software company dedicated to delivering innovativ
 
 ## 🌐 Reach Us
 
-- 🌍 **Website:** *(Coming soon)*
+- 🌍 **Website:** [https://cyberstream-six.vercel.app/](https://cyberstream-six.vercel.app/)
 - 📧 **Email:** [ceocyberstream.rw@gmail.com](mailto:ceocyberstream.rw@gmail.com)
 
 ---
