@@ -1,6 +1,6 @@
 # Cyberstream
 
-![Cyberstream Banner](https://www.ntscompany.net/web/image/14191-dc8d8a65/Software%20Company%20Development.jpg)  
+<img src="https://www.ntscompany.net/web/image/14191-dc8d8a65/Software%20Company%20Development.jpg" alt="Cyberstream Banner" width="800" />  
 
 Welcome to the official **Cyberstream** GitHub profile! 🚀
 
@@ -21,7 +21,7 @@ Cyberstream is a cutting-edge software company dedicated to delivering innovativ
 ## 🚀 Featured Projects
 
 ### **iCare Project**
-![iCare Logo](https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_ICARE.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_ICARE.jpg" alt="iCare Logo" width="200" />
 - **Description:** A transformative health tech initiative designed to enhance healthcare services using advanced digital solutions.
 - **Development Time:** 7+ months
 - **Valuation:** $20 million
@@ -59,4 +59,4 @@ Cyberstream is a cutting-edge software company dedicated to delivering innovativ
 
 ### Thank you for visiting our profile! Together, we innovate and inspire. 💡
 
-![Thank You GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Thank You GIF" width="400" />
