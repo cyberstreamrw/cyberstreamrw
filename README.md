@@ -1,6 +1,6 @@
 # Cyberstream
 
-![Cyberstream Banner](https://via.placeholder.com/800x200?text=Cyberstream+-+Innovating+the+Future)  
+![Cyberstream Banner](https://www.ntscompany.net/web/image/14191-dc8d8a65/Software%20Company%20Development.jpg)  
 
 Welcome to the official **Cyberstream** GitHub profile! 🚀
 
